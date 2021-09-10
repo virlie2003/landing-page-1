@@ -1,0 +1,203 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+.Line1 {
+    height: 0px;
+    width: 528.0000000000005px;
+    margin-left: 51px;
+    margin-top: 0px;
+    border-radius: nullpx;
+}
+
+.lingkaran {
+    height: 65.00003051757812px;
+    width: 446.47540283203125px;
+    margin-left: 157px;
+    margin-top: -880px;
+    border-radius: 0px;
+}
+
+.vektor {
+    height: 1024px;
+    width: 1440px;
+    margin-left: 0px;
+    margin-top: -5px;
+    border-radius: 0px;
+}
+
+.vektor6 {
+    height: 497.1017150878906px;
+    width: 510px;
+    margin-left: 930px;
+    margin-top: -1020.1px;
+    border-radius: 0px;
+}
+
+.vektor5 {
+    height: 886.0000610351562px;
+    width: 166px;
+    margin-left: 1275px;
+    margin-top: -365px;
+    border-radius: 0px;
+}
+
+.gel1 {
+    height: 794.5135417686544px;
+    width: 1028.496449558306px;
+    margin-left: 343px;
+    margin-top: -1000px;
+    border-radius: 0px;
+}
+
+.judul1 {
+    height: 596.000244140625px;
+    width: 1057px;
+    margin-left: 63px;
+    margin-top: -570px;
+    border-radius: nullpx;
+}
+
+.garis-gel {
+    height: 343px;
+    width: 435px;
+    margin-left: 562px;
+    margin-top: -870px;
+    border-radius: 0px;
+}
+
+.gel3 {
+    height: 299.2928757614599px;
+    width: 1024.4999950851388px;
+    margin-left: 0px;
+    margin-top: 323px;
+    border-radius: 0px;
+}
+
+.lingkaran2 {
+    height: 217px;
+    width: 217px;
+    margin-left: 930px;
+    margin-top: -350px;
+    border-radius: 0px;
+}
+
+.silang {
+    height: 724.9913940429688px;
+    width: 1211.9913330078125px;
+    margin-left: 176px;
+    margin-top: -596px;
+    border-radius: 0px;
+}
+
+.gel4 {
+    height: 218.7852044640815px;
+    width: 1024.500011415024px;
+    margin-left: 290px;
+    margin-top: 163px;
+    border-radius: 0px;
+}
+
+.home {
+    height: 35px;
+    width: 68px;
+    margin-left: 705px;
+    margin-top: -458px;
+    border-radius: nullpx;
+}
+
+.nav-items {
+    margin-left: 670px;
+    margin-top: -458px;
+    width: 64%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-links {
+    width: 84%;
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+
+.nav-link {
+    color: black;
+    text-decoration: none;
+    font-size: 15px;
+    font-family: Roboto;
+}
+
+.nav-link.active {
+    font-weight: 600;
+    border-bottom: 3px solid #000000;
+}
+
+.line50 {
+    height: 0px;
+    width: 89.81091262172058px;
+    margin-left: 1050px;
+    margin-top: 369px;
+    border-radius: nullpx;
+}
+
+.line55 {
+    height: 0px;
+    width: 196.1631957636131px;
+    margin-left: 761px;
+    margin-top: -209px;
+    border-radius: nullpx;
+}
+
+.line53 {
+    height: 0px;
+    width: 92.41752776541176px;
+    margin-left: 147px;
+    margin-top: -89px;
+    border-radius: nullpx;
+}
+
+.line56 {
+    height: 0px;
+    width: 122.74158414340222px;
+    margin-left: 696px;
+    margin-top: 41px;
+    border-radius: nullpx;
+}
+
+.polygon2 {
+    height: 98.99999888391761px;
+    width: 111.99999873736134px;
+    margin-left: 1140px;
+    margin-top: 671px;
+    border-radius: 0px;
+}
+
+.elipse20 {
+    height: 61.10234551734963px;
+    width: 157.60165664341574px;
+    margin-left: 1008.3684692382812px;
+    margin-top: -184px;
+    border-radius: 0px;
+}
+
+.line49 {
+    height: 0px;
+    width: 122.74158414340222px;
+    margin-left: 684.8333129882812px;
+    margin-top: -169px;
+    border-radius: undefinedpx;
+}
+
+.line51 {
+    height: 0px;
+    width: 156.89492249904688px;
+    margin-left: 168.875px;
+    margin-top: -31px;
+    border-radius: nullpx;
+}
+
+.line52 {
+    height: 0px;
+    width: 156.89492249904688px;
+    margin-left: 125px;
+    margin-top: -10px;
+    border-radius: nullpx;
+}
